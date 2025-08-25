@@ -17,7 +17,6 @@ import {
   Smartphone,
   Square,
   Circle,
-  Cloud,
   Package,
   Container,
   FileCode,
