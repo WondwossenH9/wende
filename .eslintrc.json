@@ -5,6 +5,7 @@
   "rules": {
     "no-unused-vars": "warn",
     "no-console": "warn",
-    "prefer-const": "warn"
+    "prefer-const": "warn",
+    "react/no-unescaped-entities": "off"
   }
 } 
